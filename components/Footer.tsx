@@ -7,7 +7,7 @@ export function Footer() {
     return (
         <div className={styles.footer}>
             <div className={styles.branding}>
-                <img src="/logo.svg" draggable={false} />
+                <img src="/logo.png" draggable={false} />
                 <div className={styles.socials}>
                     <a href={URLs.GitHub}>
                         <Github size={24} />
@@ -49,19 +49,19 @@ export function Footer() {
                 <div className={styles.column}>
                     <b>Team</b>
                     <Link href="/about">
-                        <a>About Us</a>
+                        <a>About</a>
                     </Link>
                     <a href="mailto:hello@revolt.chat">Email</a>
                 </div>
                 <div className={styles.column}>
                     <b>Legal</b>
-                    <Link href="/terms">
+                    <Link href="https://revolt.chat/terms">
                         <a>Terms of Service</a>
                     </Link>
-                    <Link href="/privacy">
+                    <Link href="https://revolt.chat/privacy">
                         <a>Privacy Policy</a>
                     </Link>
-                    <Link href="/aup">
+                    <Link href="https://revolt.chat/aup">
                         <a>Acceptable Usage</a>
                     </Link>
                 </div>

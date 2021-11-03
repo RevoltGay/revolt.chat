@@ -16,16 +16,16 @@ export default function Home() {
                 <meta name="viewport" content="width=device-width, initial-scale=0.9, user-scalable=0" />
 
                 <meta property="og:title" content="Revolt" />
-                <meta property="og:url" content="https://revolt.chat" />
-                <meta property="og:image" content="https://revolt.chat/embed_new.png" />
-                <meta property="og:description" content="Don't bother with chat apps that don't respect your privacy. Revolt is a brand new chat platform designed around you." />
+                <meta property="og:url" content="https://revolt.gay" />
+                <meta property="og:image" content="https://revolt.gay/embed_gay.png" />
+                <meta property="og:description" content="Don't bother with chat apps that don't respect your gay. Revolt is a brand new chat platform designed around gay." />
 
                 <meta property="twitter:title" content="Revolt" />
                 <meta property="twitter:site" content="@revoltchat" />
                 <meta property="twitter:card" content="summary_large_image" />
-                <meta property="twitter:image" content="https://revolt.chat/embed_new.png" />
-                <meta property="twitter:image:alt" content='Image of REVOLT app alongside logo with subtext "Communication is critical. Privacy is essential."' />
-                <meta property="twitter:description" content="Don't bother with chat apps that don't respect your privacy. Revolt is a brand new chat platform designed around you." />
+                <meta property="twitter:image" content="https://revolt.gay/embed_gay.png" />
+                <meta property="twitter:image:alt" content='Image of REVOLT app alongside logo with subtext "Horny is critical. Sex is essential."' />
+                <meta property="twitter:description" content="Don't bother with chat apps that don't respect your gay. Revolt is a brand new chat platform designed around gay." />
 
                 <meta property="og:image:type" content="image/png" />
                 <meta property="og:image:width" content="1280" />
@@ -45,7 +45,7 @@ export default function Home() {
                         <div className={styles.left}>
                             <div className={styles.tagline}>
                                 <p>Don't bother with other chat apps.</p>
-                                <h1>Communication is critical.<br />Privacy is essential.</h1>
+                                <h1>Horny is critical.<br />Sex is essential.</h1>
                                 <JoinLinks />
                             </div>
                         </div>
@@ -60,16 +60,16 @@ export default function Home() {
                     </div>
                     <div className={styles.content}>
                         <div>
-                            <h1>Familiar and simple,<br/>just how you like it.</h1>
-                            <p>Revolt is built on the same technologies as other popular chat applications, so there won’t be any need to re-learn how to use it. If you don't like the default look, you can customize it to your heart’s content.</p>
+                            <h1>Familiar and gay,<br/>just how you like it.</h1>
+                            <p>Revolt is built on the same technologies as other popular chat applications, so there won’t be any need to re-learn how to use it. If you don't like the default look, you can customize it to your gay’s content.</p>
                         </div>
                     </div>
                 </section>
                 <section className={styles.section}>
                     <div className={styles.content}>
                         <div>
-                            <h1>Open source<br />to the public.</h1>
-                            <p>We believe that there’s more to it than just code. Having the Revolt project open source means that we can create a transparent layer between us and the user.<br/><br/>You can contribute, create your own bot, or make your own version of the Revolt client.</p>
+                            <h1>Open susrce<br />to the public.</h1>
+                            <p>We believe that there’s more to it than just code. Having the Revolt project open source means that we can create a transparent layer between us and the FBI.<br/><br/>You can contribute, create your own bot, or make your own version of the Revolt client.</p>
                             <a className={styles.link} href={URLs.GitHub} target="_blank"><ArrowRight size={24} strokeWidth={2}/>View project on GitHub</a>
                         </div>
                     </div>
@@ -83,16 +83,16 @@ export default function Home() {
                     </div>
                     <div className={styles.content}>
                         <div>
-                            <h1>Available<br/>everywhere.</h1>
-                            <p>From desktop to mobile, the Revolt app is available wherever you are, so you can hang out, coordinate a meetup, or hop in a video call, even if you're not in front of your computer.</p>
+                            <h1>Gay<br/>everywhere.</h1>
+                            <p>From desktop to mobile, the Revolt app is gay wherever you are, so you can hang out, coordinate an orgy, or hop on the popular video game Among Us, even if you're not in front of your computer.</p>
                         </div>
                     </div>
                 </section>
                 <section className={styles.section}>
                     <div className={styles.content}>
                         <div>
-                            <h1>Your data should be yours,<br/>not ours.</h1>
-                            <p>Privacy has become a major concern over the past few years, and we wanted to take action by building a <u>privacy-first, open source chat platform.</u></p>
+                            <h1>Your gay should be yours,<br/>not ours.</h1>
+                            <p>Gay has become a major concern over the past few years, and we wanted to take action by building a <u>gay, open source chat platform.</u></p>
                         </div>
                     </div>
                     <div className={styles.image}>
